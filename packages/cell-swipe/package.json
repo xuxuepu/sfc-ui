@@ -1,0 +1,11 @@
+{
+  "name": "sfc-cell-swipe",
+  "description": "",
+  "version": "0.1.0",
+  "main": "lib/index.js",
+  "author": "epo",
+  "homepage": "https://github.com/xuxuepu/sfc-ui",
+  "license": "MIT",
+  "repository": "https://github.com/xuxuepu/sfc-ui/tree/master/components/sfc-cell-swipe",
+  "dependencies": {}
+}

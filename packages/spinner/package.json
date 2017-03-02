@@ -1,0 +1,21 @@
+{
+  "name": "sfc-spinner",
+  "version": "2.0.0",
+  "description": "A spinner component for vue.js",
+  "main": "lib/index.js",
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sfc-ui/sfc-spinner.git"
+  },
+  "homepage": "https://github.com/sfc-ui/sfc-spinner#readme",
+  "bugs": {
+    "url": "https://github.com/sfc-ui/sfc-spinner/issues"
+  },
+  "author": "qingwei-li<cinwell.li@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "sfc-picker",
+  "description": "",
+  "version": "0.1.0",
+  "main": "lib/index.js",
+  "homepage": "https://github.com/xuxuepu/sfc-ui",
+  "license": "MIT",
+  "repository": "https://github.com/xuxuepu/sfc-ui/tree/master/components/sfc-picker",
+  "keywords": [
+    "picker",
+    "multi slots",
+    "vue"
+  ],
+  "author": "long.zhang@ele.me",
+  "dependencies": {
+    "raf.js": "0.0.4",
+    "wind-dom": "0.0.3"
+  }
+}
