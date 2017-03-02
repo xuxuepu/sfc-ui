@@ -10,15 +10,15 @@ issue 仅用于提交 bug 或 feature 以及设计相关的内容，其它疑问
 Issues are exclusively for bug reports and feature requests. For other questions, please visit gitter: https://gitter.im/ElemeFE/sfc-ui
 -->
 
-### Mint UI version
+### Sfc UI version
 
 ### Device model
 <!-- e.g. iOS 9.3 Safari or Wechat webview -->
 
 ### Reproduction Link
 <!-- A minimal JSBin, JSFiddle, Codepen, or a GitHub repository that can reproduce the bug. -->
-<!-- Mint UI CDN: https://npmcdn.com/sfc-ui/lib/index.js -->
-<!-- Mint UI CSS File CDN: https://npmcdn.com/sfc-ui/lib/style.css -->
+<!-- Sfc UI CDN: https://npmcdn.com/sfc-ui/lib/index.js -->
+<!-- Sfc UI CSS File CDN: https://npmcdn.com/sfc-ui/lib/style.css -->
 
 ### What is Expected?
 

@@ -1,5 +1,5 @@
 # sfc-progress
-> A mint component
+> A sfc component
 
 ## Installation
 ```shell
@@ -9,18 +9,18 @@ npm i sfc-progress -D
 ## Usage
 ```javascript
 import Vue from 'vue'
-import MintProgress from 'sfc-progress'
+import SfcProgress from 'sfc-progress'
 
-Vue.use(MintProgress)
+Vue.use(SfcProgress)
 ```
 
 or
 
 ```javascript
 import Vue from 'vue'
-import { MintProgress } from 'sfc-progress'
+import { SfcProgress } from 'sfc-progress'
 
-Vue.component('sfc-progress', MintProgress)
+Vue.component('sfc-progress', SfcProgress)
 ```
 
 ## Development

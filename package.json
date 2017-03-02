@@ -1,7 +1,7 @@
 {
   "name": "sfc-ui",
-  "version": "2.1.1",
-  "description": "Mobile UI elements for vue.js",
+  "version": "0.1.1",
+  "description": "sfc-ui for vue.js",
   "keywords": [
     "component",
     "vue",
@@ -29,10 +29,6 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/xuxuepu/sfc-ui.git"
-  },
-  "homepage": "https://github.com/xuxuepu/sfc-ui#readme",
-  "bugs": {
-    "url": "https://github.com/xuxuepu/sfc-ui/issues"
   },
   "author": "epo",
   "license": "MIT",
